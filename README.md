@@ -12,7 +12,7 @@ Go to this repository and click on the **"Fork"** button at the top-right corner
 ### Step 2: Clone Your Fork  
 Copy the URL of your fork and run the following command in your terminal:
 ```bash
-git clone https://github.com/adarshkr357/DevInnovators-FirstOpenSourceCommit.git
+git clone https://github.com/<your-username>/DevInnovators-FirstOpenSourceCommit.git
 ```
 Navigate into the project folder:
 ```bash
