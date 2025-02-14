@@ -15,7 +15,7 @@ Welcome to the DevInnovators First Open Source Commit project! This document out
 2. **How to Format Your Entry:**  
    Append your entry as a new line in the file **contributors.txt** using the following format:
    ```
-   [Serial Number]. Name: <Your Name>, Roll: <Your Roll Number>, Branch: <Your Branch>, Section: <Your Section>, Email: <Your Email>
+   Name: <Your Name>, Roll: <Your Roll Number>, Branch: <Your Branch>, Section: <Your Section>, Email: <Your Email>
    ```
    **Example:**
    ```
