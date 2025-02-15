@@ -9,3 +9,4 @@ Name: Aditya Yadav, Roll: 27226, Branch: AIML, Section: 1, Email: aditya18yadav0
 Name: Anuj Kumar, Roll: 27492, Branch: IOT, Section: 2, Email: nuju18232@gmail.com
 Name: Taaran, Roll: 27481, Branch: CSIT, Section: 1, Email: taaran06@gmail.com
 Name: Arnav, Roll: 27436, Branch: CSIT, Section: 1, Email: arnav21062006@gmail.com
+Name: shivang, Roll: 26170, Branch: CSE, Section: 2, Email: shivangjha7@gmail.com
