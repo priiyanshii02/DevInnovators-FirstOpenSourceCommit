@@ -21,3 +21,4 @@ Name: Himanshu, Roll: 27074, Branch: CSE, Section: 2, Email: himanshu20050118rat
 Name: Abhay Yadav, Roll: 27006, Branch: CSE, Section: 1, Email: kamlavati152@gmail.com 
 Name: Chetna Sahni, Roll: 27259, Branch: AIML, Section: 1, Email: chetnasahni2405@gmail.com
 Name: Garvit Sahni, Roll: 27268, Branch: AIML, Section: 1, Email: garvitsahni0012@gmail.com
+Name: Vansh, Roll Number: 27189, Branch: CSE, Section: 3, Email: vanshdhamija64@gmail.com
