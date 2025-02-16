@@ -12,4 +12,14 @@ Name: Arnav, Roll: 27436, Branch: CSIT, Section: 1, Email: arnav21062006@gmail.c
 Name: Disha, Roll: 27057, Branch: CSE, Section: 1, Email: disha25july@gmail.com
 Name: Tanishq Bhatnagar, Roll: 27177, Branch: CSE, Section: 3, Email: tanishqbhatnagar366@gmail.com
 Name: Krish Jindal, Roll: 27093, Branch: CSE, Section: 2, Email: krish.27093@ggindia.dronacharya.info
+Name: Jyotir Jakhmola, Roll: 27518, Branch: IOT, Section: 3, Email: jyotirjakhmola@gmail.com
+Name: Tanishq Gupta, Roll: 27547, Branch: IOT, Section: 3, Email: tanishqgupta1976@gmail.com
+Name: Deepak, Roll: 27441, Branch: CSIT, Section: 1, Email: deepaksoni2907@gmail.com
+Name: Hunny, Roll: 27279, Branch: AIML, Section: 2, Email: vatshunny0026@gmail.com
+Name: Kartik, Roll: 27519, Branch: IOT, Section: 3, Email: kartik2005221@gmail.com 
+Name: Himanshu, Roll: 27074, Branch: CSE, Section: 2, Email: himanshu20050118rathee@gmail.com 
+Name: Abhay Yadav, Roll: 27006, Branch: CSE, Section: 1, Email: kamlavati152@gmail.com 
+Name: Chetna Sahni, Roll: 27259, Branch: AIML, Section: 1, Email: chetnasahni2405@gmail.com
+Name: Garvit Sahni, Roll: 27268, Branch: AIML, Section: 1, Email: garvitsahni0012@gmail.com
 Name: Nandini, Roll: 27116, Branch: CSE, Section: 2, Email: nandini3306@gmail.com
+
