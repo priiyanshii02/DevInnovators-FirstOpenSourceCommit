@@ -31,4 +31,5 @@ Name: Tanvi Rawat, Roll: 27180, Branch: CSE, Section: 3, Email: tanvirawat2006@g
 Name: Sandeep Nautiyal, Roll: 27541, Branch: IOT, Section: 3, Email: sandeepnautiyal872@gmail.com
 Name: Jeevan, Roll: 27081, Branch: CSE, Section: 2, Email: jeevanyadav9898@gmail.com
 Name: Yuvraj, Roll: 27490, Branch: CSIT, Section: 2, Email: yuvrajbakshi85@gmail.com 
+Name: Arun Hooda, Roll: 27038, Branch: CSE, Section: 1, Email: arunhooda2005@gmail.com
 
