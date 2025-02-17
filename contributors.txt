@@ -32,4 +32,4 @@ Name: Sandeep Nautiyal, Roll: 27541, Branch: IOT, Section: 3, Email: sandeepnaut
 Name: Jeevan, Roll: 27081, Branch: CSE, Section: 2, Email: jeevanyadav9898@gmail.com
 Name: Yuvraj, Roll: 27490, Branch: CSIT, Section: 2, Email: yuvrajbakshi85@gmail.com 
 Name: Arun Hooda, Roll: 27038, Branch: CSE, Section: 1, Email: arunhooda2005@gmail.com
-Name: Ishank Kumar Kaushik, Roll: 27079, Branch: CSE, Section: 2, Email:ishankkoshik@gmail.com
+Name: Ishank Kumar Kaushik, Roll: 27079, Branch: CSE, Section: 2, Email: ishankkoshik@gmail.com
