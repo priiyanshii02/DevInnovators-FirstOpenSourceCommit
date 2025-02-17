@@ -30,3 +30,5 @@ Name: Parminder Singh, Roll: 27127, Branch: CSE, Section: 2, Email: singhparmind
 Name: Tanvi Rawat, Roll: 27180, Branch: CSE, Section: 3, Email: tanvirawat2006@gmail.com
 Name: Sandeep Nautiyal, Roll: 27541, Branch: IOT, Section: 3, Email: sandeepnautiyal872@gmail.com
 Name: Jeevan, Roll: 27081, Branch: CSE, Section: 2, Email: jeevanyadav9898@gmail.com
+Name: Yuvraj, Roll: 27490, Branch: CSIT, Section: 2, Email: yuvrajbakshi85@gmail.com 
+
