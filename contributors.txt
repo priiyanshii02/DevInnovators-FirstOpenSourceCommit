@@ -35,3 +35,4 @@ Name: Arun Hooda, Roll: 27038, Branch: CSE, Section: 1, Email: arunhooda2005@gma
 Name: Ishank Kumar Kaushik, Roll: 27079, Branch: CSE, Section: 2, Email: ishankkoshik@gmail.com
 Name: Nikita Sharma, Roll: 27097, Branch: CSE, Section: 2, Email: nikitash1811@gmail.com
 Name: Harshit Tyagi, Roll: 27508, Branch: IOT, Section: 2, Email: tyagiharshit.0005@gmail.com
+Name: Anish Samanta, Roll: 27237, Branch: AIML, Section: 1, Email: anishsamanta.6024@gmail.com
