@@ -40,3 +40,4 @@ Name: Khushi Sharma, Roll: 27520, Branch: IOT, Section: 3, Email: khushisharmaq3
 Name: Yash Sharma, Roll: 27488, Branch: CSIT, Section: 2, Email: yash.s522020@gmail.com 
 Name: Sanya Pruthi, Roll: 27156, Branch: CSE, Section: 3, Email: sanyapruthi150706@gmail.com
 Name: Aarushi Prajapati , Roll: 27002, Branch:CSE,section: 1 , Email: arushik327@gmail.com
+Name: Rohan, Roll: 27360, Branch: AIML, Section: 3, Email: rohansingh.cyberking@gmail.com
