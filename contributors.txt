@@ -46,3 +46,4 @@ Name: Hansika Arora, Roll: 27063, Branch: CSE, Section: 1, Email: hansikaarora30
 Name: Sarthak Rohilla, Roll: 27375, Branch: AIML, Section: 3, Email: sarthakrohilla2@gmail.com
 Name: Shruti, Roll: 27381, Branch: AIML, Section: 3, Email: shrutishawal@gmail.com
 Name: Sanjit Rakshit, Roll: 27474, Branch: CSIT, Section: 2, Email: sanjitrksht@gmail.com 
+Name: Kunjan, Roll: 27299, Branch: AIML, Section: 2, Email: kunjanmalik19@gmail.com
